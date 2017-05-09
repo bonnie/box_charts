@@ -1,5 +1,11 @@
 # box_charts
-python script to create box chord charts from text file input
+Python script to create box chord charts from text file input
 
-This is a work in progress, and eventually the idea is to turn it 
-into an iOS app with an actual user interface. 
+This is a precursor to the web app [BoxCharter](https://github.com/flyrightsister/boxcharter). 
+
+## License
+
+box_charts is licensed under the [GNU Affero General Public
+License](http://www.gnu.org/licenses/).
+
+
