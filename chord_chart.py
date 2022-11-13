@@ -267,11 +267,11 @@ def create_paragraph(texttype, input_text, fontsize, fontstyle, maxwidth, align)
 # 		print "text width: " + str(text_width) + " font size: " + str(fontsize)
 	
 	if fontsize <= 0:
-		print "error: can't print this " + texttype + ": [" + text + "] too wide at any size. Exiting."
+		print("error: can't print this " + texttype + ": [" + text + "] too wide at any size. Exiting.")
 		exit()
 
 	# make a new style based on this new size
-	uniq = str(time.clock())
+	uniq = str(time.time())
 	style_name = texttype + uniq
 	styles.add(ParagraphStyle(
 			style_name,
@@ -287,7 +287,7 @@ def create_paragraph(texttype, input_text, fontsize, fontstyle, maxwidth, align)
 
 def create_table(data, cols, mnum): 
 #  	tstyles_start = [('VALIGN', (0,0), (-1,-1), 'MIDDLE')]
- 	tstyles_start = [('VALIGN', (0,0), (-1,-1), 'MIDDLE'), ('ALIGN', (0, 0), (-1,-1), 'CENTER')]
+	tstyles_start = [('VALIGN', (0,0), (-1,-1), 'MIDDLE'), ('ALIGN', (0, 0), (-1,-1), 'CENTER')]
 
 	# get col width and make an array for the table
 	(col_width, col_array) = get_col_array(cols, cols)
@@ -460,7 +460,7 @@ def transpose(key1, key2, raw_chord):
 		index = scale1.index(chord[0] + 'b')
 		after_stuff = 'b' + chord[1:]
 	else:
-		print "bad chord: [" + chord + "]. Exiting."
+		print("bad chord: [" + chord + "]. Exiting.")
 		exit()
 	
 	# translate it to the new key
@@ -545,7 +545,7 @@ def parse_file(data_file):
 			if len(tokens) > 1:
 				for item in tokens[1:]:
 					if '=' not in item:
-						print "Bad section line [" + line + "]. Exiting."
+						print("Bad section line [" + line + "]. Exiting.")
 						exit()
 					(key, val) = item.split('=')
 					if key == 'width':
@@ -557,7 +557,7 @@ def parse_file(data_file):
 					elif key == 'pickup':
 						sections[snum]['pickup'] = int(val)
 					else:
-						print "Bad section data: [" + item + "]. Exiting."
+						print("Bad section data: [" + item + "]. Exiting.")
 						exit()
 			
 			else:
@@ -672,7 +672,7 @@ def finish_pdf():
 
 
 if len(sys.argv) != 2:
-	print "Usage: chord_chart.py datafile.txt"
+	print("Usage: chord_chart.py datafile.txt")
 	exit()
 	
 filename = sys.argv[1]
