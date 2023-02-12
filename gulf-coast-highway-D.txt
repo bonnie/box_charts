@@ -1,5 +1,6 @@
 ^Gulf Coast Highway
 >Nanci Griffith
+}C~D
 
 +Intro~width=4~lyrics=1
 F|C|G|C
@@ -27,7 +28,7 @@ lone when the|work took me a-|way|And when she
 go, at this old|house here by the|road|And when we
 
 +Chorus(sing last 2x)~width=4~lyrics=3
-Am|G/B|C|F
+Am|G|C|F
 dies he says he'll|catch some blackbird's|wing, and he will|fly away to
 dies she says she'll|catch some blackbird's|wing, and she will|fly away to
 die we say we'll|catch some blackbird's|wing, and we will|fly away to
