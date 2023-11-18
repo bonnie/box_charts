@@ -1,5 +1,3 @@
-#!/usr/bin/python
-
 # Copyright (c) 2016 Bonnie Schulkin. All Rights Reserved.
 #
 # This file is part of box_charts.
