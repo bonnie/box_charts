@@ -523,7 +523,7 @@ def parse_file(data_file):
 			mdata['other'].append(line[1:])
 	
 		elif line[0] == SCALE_START:
-			scale = float(line[7:])
+			scale = float(line[1:])
 
 		elif line[0] == KEY_CHANGE_START:
 			from_key, to_key = line[1:].split(KEY_CHANGE_SPLIT)
