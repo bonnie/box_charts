@@ -1,0 +1,41 @@
+^Dublin Blues
+>Guy Clark
+}D~C
+
++verse~width=4~lyrics=6
+:D|G|%|D
+(well I) wished I was in|Austin|mmm-|mmm
+here I am in|Dublin|mmm-|mmm
+(now) I am just a|poor boy|mmm-|mmm
+stand up and be|counted|mmm-|mmm
+I have been to|Forth Worth|mmm-|mmm
+I have seen the|David|mmm-|mmm
+
+D|%|A|D
+in the|Chili Parlour|Bar drinkin'|Mad Dog Marga-
+just|rolling ciga-|rettes, holding|back and choking
+|work's my middle|name if|money was a
+I'll|face up to the|truth, I'll|walk away from
+And|I have been to|Spain, and|I have been too
+I've seen the|Mona Lisa|too and|I have heard Doc
+
+D|G|D|%
+ritas and not|caring where you|are|but
+back the|shakes with every|breath|so for-
+reason well I|would not be the|same|I'll
+trouble, I won't|walk away from|you|so for-
+proud to come|in out of the|rain|and
+Watson play Co-|lumbus Stockade|Blues|so for-
+
++chorus~width=4~lyrics=1
+A|D|%|%
+give me all my|anger, for-|give me all my|faults. There's
+
+A|%|D|%
+no need to for-|give me for|thinking what I|thought. I
+
+A|D|%|%
+loved you from the|get-go, and I'll|love you 'til I|die. I
+
+A|%|G|D
+loved you on the|Spanish steps the|day we said good-|bye
