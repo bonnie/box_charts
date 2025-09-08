@@ -1,5 +1,7 @@
 ^Fishing with You
 >Carsie Blanton
+*scale=0.92
+}G~A
 
 +verse~width=4~lyrics=3
 G|%|C|%
@@ -20,17 +22,20 @@ pretty good band up|there I guess, and|we all wish you|all the best. But
 
 +chorus~width=4~lyrics=1
 C|%|G|%
-tonight heaven is a|happier place, we were|all sick of singing a-|mazing grace. Now it's
+tonight heaven is a|happier place, they were|all sick of singing a-|mazing grace. Now it's
 
-D|%|%|G
+D|%|G|G
 Fish and Whistle|Lean on Me|everybody singing in|harmony
 
 C|%|G|%
 tonight in heaven, it|must be nice, they were|all eating peaches in|paradise
 
-D|%|G|%
+D|%|%|G
 All of them angels lined|up in a queue|just to go fishin with|you
 
 D|G|%|%
 just to fishing with|you
 
++outtro~width=4~lyrics=1
+G|C|%|G
+just to go fishing with|Jesus, Petty and|you|
