@@ -1,0 +1,51 @@
+^Too Darn Hot
+>Cole Porter
+*scale=0.88
+
+
++verse~width=4~lyrics=4
+Am|E7|Am|E7
+too darn|hot,  it's|too darn|hot,  I'd
+too darn|hot,  it's|too darn|hot,  I'd
+
+Am|%|E7|%
+like to sup|with my baby to-|night|re-
+like too coo|with my baby to-|night|
+
+Am|%|E7|%
+fill the cup|with my baby to-|night|I'd
+pitch the woo|with my baby to-|night|I'd
+
+A A7/G|D/F# Dm/F|A A7/G|D/F# Dm/F
+like to sup with my|baby tonight re-|fill the cup with my|baby tonight, but
+like too coo with my|baby tonight|pitch the woo with my|baby tonight, but
+
+A A7/G|D/F# F#dim|Am E7|A7 E7
+I ain't up to my|baby tonight 'cause it's|too darn|hot.   It's
+brother you fight my|baby tonight 'cause it's|too darn|hot.   A-
+
++chorus~width=4~lyrics=1
+A|%|%|%
+ccording to the kin-|sey report every|average man you|know much pre-
+
+A|%|%|E7
+fers his lo-|vey dovey to court when the|temperature is|low, but
+
+A|D|A|E7
+when the thermometer|goes way up, and the|weather is sizzling|hot, mister (interlude)
+
+A|Am|A|Am E7
+pants for ro-|mance is|not 'cause it's|too, too
+
+Am|E7|Am|E7
+too darn|hot it's|too darn|hot it's 
+
+Am|Dm7|A|Am7 (E7)
+too|darn|hot|(it's)
+
++interlude~width=4~lyrics=1
+A|Am|A|Am
+pants for ro-|mance mister|god for his|squad, a G
+
+A|Am|A|Am E7
+I for his|cutie pie is|not 'cause it's|too, too (back)
