@@ -1,0 +1,49 @@
+^The Cypress Hills
+>John Reischman
+*scale=0.8
+
++Intro~width=4~lyrics=1
+Eb|F|Bb|%
+|||The night hawk
+
++Verse~width=4~lyrics=4
+:Bb|%|%|%
+1a. calls|oh whippor-|will|coyote
+1b. fine|a speckled|roan|she don't
+2a. patched|these boots are|worn|this saddle's
+2b. wise|but I'm no|fool|I hold
+
+Bb|%|Eb|%
+sings|through evening's|chill|I count the
+mind|the long way|home|no she don't
+broke|my blanket's|torn|I've seen my
+fast|to a prairie|jewel|the lark will
+
+Cm|%|Gm|%
+stars|the night grows|still|I dream the
+mind|but now and|then|she cuts
+share|of winter's|kill|oh how I
+sing|me home and|then|no more I'll
+
+Eb|F|Bb|%:
+dreams|of the cypress|hills|my pony's (to 1b)
+wide|toward old chey-|enne|I was (to 1c)
+pine|for the cypress|hills|I'm none too (to 2b)
+stray|from old chey-|enne|some-day I'll (to 2c)
+
++Chorus~width=4~lyrics=2
+Gm|%|Eb|%
+1c. once|my father's|son|my mother's
+2c. rest|these bones of|mine|I'll cut my
+
+Cm|%|Gm|%
+boy|her darling|one|they have
+bed|from lodge pole|pine|but now I
+
+Eb|%|Cm|%
+met|eterni-|ty|so I set
+sleep|'neath the cottonwood|trees|I dream the
+
+F|%|Bb|%
+out|for the lone prai-|rie|this slicker's (to 2a)
+dreams|of the lone prai-|rie
