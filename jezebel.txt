@@ -1,25 +1,46 @@
-^Next Door Neighbor Blues
->Bonnie Schulkin
+^Jezebel
+>Abbie Gardner / Red Molly
+*scale=0.8
 
-+~width=4~lyrics=3
-A|D|A|%
-(The) man next door|he's gone and lost his|mind|I said the
-says I tried to kill him|but lord you know that ain't|so|you know he
-nothing so good,|he can't find something|wrong|I said there ain't
-all of my transgressions|but just don't see his|own|you know he sees
-last time I saw him|he ran out of my|sight|baby the
++intro~width=4~lyrics=1
+D|%|G|%
+|||I see that
 
++verse~width=4~lyrics=3
+G|%|%|%
+1. girl|with the swinging|hips,|the midnight
+2. man|who ever called me|darling|he was
+3. night|I tend this|bar|serving
 
-D|%|A|%
-man next door|he's gone and lost his|mind|and the
-says I tried to kill him|but lord you know that ain't|so|every word out of that man's
-nothing so good,|he can't find something|wrong|this tragic homeowning
-every one of my transgressions|but just don't see his|own|such a
-last time I saw him|he ran out of my|sight|you'd best run
+G|%|D|%
+hair|and the ruby|lips|just one
+taken|by that little|harlot|his tender
+hard reme-|dies for broken|hearts|the love I
 
-E|D|A|%
-woman next to him|well she ain't that far be-|hind.|He
-mouth|is cold as winter|snow|There ain't
-white dude|sings a sad sad sad sad|song|He sees
-blind glass house owner|can't stop throwing effing|stones|The
-run you little man|or I just might prove you|right|
+C|%|G|%
+look|in her emerald|eyes|and you
+heart was left to|sin|and I'll
+lost|now waits in|vain|for that
+
+G|D|G|%
+might|as well just say good-|bye.| Don't throw your
+never|love that way a-|gain|Don't throw your
+Jeze-|bel to call his|name|you got to(to bridge 2)
+
++chorus~width=4~lyrics=2
+C|%|G|%
+life|down a wishing|well|Don't give your
+
+D|%|G|%
+heart|to Jeze-|bel|The only
+heart|to Jeze-|bel|Oh (to bridge 1)
+
++bridge~width=4~lyrics=2
+C|G|C|G
+1. she once was a|friend of mine, but then I|found a love so|fine, so fine. Then they
+2. think that just like|you, he would|be her only|fool but don't you
+
++~width=6~lyrics=2
+C|G|D|D|D|D
+played that waltz from|Tennessee, and she|danced him right a-|way from me||now late at (to v3)
+go and be so|dumb to think that|she's you're only|only only|only only one|Don't throw your (to chorus)
