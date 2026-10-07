@@ -463,6 +463,17 @@ def transpose(key1, key2, raw_chord):
 	
 	# translate it to the new key
 	new_chord = before_stuff + scale2[index] + after_stuff
+
+	# to take care of weird out-of-key chords
+	if new_chord[-2:] == "##":
+		new_index = (index + 1) % len(scale2)
+		new_chord = scale2[new_index]
+
+	if new_chord[-2:] == "bb":
+		new_index = (index - 1)
+		if new_index < 0:
+			new_index = len(scale2) - 1
+		new_chord = scale2[new_index]
 	
 	# eliminate nonsense like b# or #b
 	new_chord = new_chord.replace('b#', '')

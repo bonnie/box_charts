@@ -1,0 +1,35 @@
+^I Can See Clearly Now - A
+>Johnny Nash
+
+}D~A
+
++Verse~width=4~lyrics=3
+D|G|D|%
+I can see|clearly now the|rain is gone|
+I think I can|make it now the|pain is gone|
+
+D|G|A|%
+I can see|all obstacles|in my way|
+All of the|bad feelings have|disappeared|
+
+D|G|D|%
+Gone are the|dark clouds that|had me blind|it's gonna be a
+Here is the|rainbow I've been|praying for|
+
++chorus~width=4~lyrics=1
+C|G|D|%
+bright, (bright)|bright, (bright) sun shiny|day|it's gonna be a
+
+C|G|D|%
+bright, (bright)|bright, (bright) sun shiny|day|
+
++bridge (after v2 + c2)~width=4~lyrics=1
+F|%|C|%
+Look all around,|there's nothing but|blue skies|
+
+F|%|A7|C#m
+Look straight ahead,|there's nothing but|blue skies|
+
+G|C#m|G|C
+
+Bm|A|%
