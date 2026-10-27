@@ -69,18 +69,18 @@ PDF_DIR = 'pdf'
 TEXT_DIR = 'text'
 
 SCALE_DEGREES = {}
-SCALE_DEGREES['Ab'] = ['Ab', 'Bb', 'C', 'Db', 'Eb', 'F', 'G']
-SCALE_DEGREES['A'] = ['A', 'B', 'C#', 'D', 'E', 'F#', 'G#']
-SCALE_DEGREES['Bb'] = ['Bb', 'C', 'D', 'Eb', 'F', 'G', 'A']
-SCALE_DEGREES['B'] = ['B', 'C#', 'D#', 'E', 'F#', 'G#', 'A#']
-SCALE_DEGREES['C'] = ['C', 'D', 'E', 'F', 'G', 'A', 'B']
-SCALE_DEGREES['Db'] = ['Db', 'Eb', 'F', 'Gb', 'Ab', 'Bb', 'C']
-SCALE_DEGREES['D'] = ['D', 'E', 'F#', 'G', 'A', 'B', 'C#']
-SCALE_DEGREES['Eb'] = ['Eb', 'F', 'G', 'Ab', 'Bb', 'C', 'D']
-SCALE_DEGREES['E'] = ['E', 'F#', 'G#', 'A', 'B', 'C#', 'D#']
-SCALE_DEGREES['F'] = ['F', 'G', 'A', 'Bb', 'C', 'D', 'E']
-SCALE_DEGREES['F#'] = ['F#', 'G#', 'A#', 'B', 'C#', 'D#', 'E#']
-SCALE_DEGREES['G'] = ['G', 'A', 'B', 'C', 'D', 'E', 'F#']
+SCALE_DEGREES['Ab'] = ['Ab', 'A', 'Bb', 'B', 'C', 'D', 'Db', 'E', 'Eb', 'F', 'Gb', 'G']
+SCALE_DEGREES['A'] = ['A', 'A#', 'B', 'C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#']
+SCALE_DEGREES['Bb'] = ['Bb', 'B', 'C', 'Db', 'D', 'Eb', 'E', 'F', 'Gb', 'G', 'Ab', 'A']
+SCALE_DEGREES['B'] = ['B', 'C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#']
+SCALE_DEGREES['C'] = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B']
+SCALE_DEGREES['Db'] = ['Db', 'D', 'Eb', 'E', 'F', 'Gb', 'G', 'Ab', 'A', 'Bb', 'B', 'C']
+SCALE_DEGREES['D'] = ['D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B', 'C', 'C#']
+SCALE_DEGREES['Eb'] = ['Eb', 'E', 'F', 'Gb', 'G', 'Ab', 'A', 'Bb', 'B', 'C', 'Db', 'D']
+SCALE_DEGREES['E'] = ['E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B', 'C', 'C#', 'D', 'D#']
+SCALE_DEGREES['F'] = ['F', 'Gb', 'G', 'Ab', 'A', 'Bb', 'B', 'C', 'Db', 'D', 'Eb', 'E']
+SCALE_DEGREES['F#'] = ['F#', 'G', 'G#', 'A', 'A#', 'B', 'C', 'C#', 'D', 'D#', 'E', 'E#']
+SCALE_DEGREES['G'] = ['G', 'G#', 'A', 'A#', 'B', 'C', 'C#', 'D', 'D#', 'E', 'F', 'F#']
 
 #######################################################################################
 # globals
